@@ -1,1 +1,5 @@
 .DS_Store
+pycode/color/*
+camera_processing/depth/*
+camera_processing/projectedDepth/*
+*.mp4
