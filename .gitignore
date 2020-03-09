@@ -3,3 +3,5 @@ pycode/color/*
 camera_processing/depth/*
 camera_processing/projectedDepth/*
 *.mp4
+.png
+.tiff
