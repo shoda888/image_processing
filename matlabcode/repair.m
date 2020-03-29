@@ -26,5 +26,5 @@ for j = 1:itr
     if isequal(output, tmp)
         break
     end
-    imwrite(imadjust(uint16(output)),append('output',int2str(j+1),'.png'), 'BitDepth',16);
+    imwrite(imadjust(uint16(output)),append('depth_repaired/output',int2str(j+1),'.png'), 'BitDepth',16);
 end
