@@ -1,5 +1,5 @@
 load('stereoParams.mat');
-AKboneData = readmatrix('test.csv');
+AKboneData = readmatrix('pos/v3/pos.csv');
 AKboneData(:,1) = [];
 res = zeros(size(AKboneData));
 
