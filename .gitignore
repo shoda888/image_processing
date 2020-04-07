@@ -1,6 +1,8 @@
 .DS_Store
 pycode/color/*
 camera_processing/depth/*
+camera_processing/0331v2Data/*
+camera_processing/0331v3Data/*
 camera_processing/csv/*
 camera_processing/stair/*
 camera_processing/test/*
