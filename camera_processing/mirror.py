@@ -4,7 +4,7 @@ import glob
 import sys
 from PIL import Image, ImageOps
 
-filelist = glob.glob('calibData/v2/*.png')
+filelist = glob.glob('depth/0000000140.png')
 for filename in filelist:
     im = Image.open(filename)
     im_mirror = ImageOps.mirror(im)

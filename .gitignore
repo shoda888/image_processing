@@ -1,7 +1,12 @@
 .DS_Store
 pycode/color/*
 camera_processing/depth/*
+camera_processing/csv/*
+camera_processing/stair/*
+camera_processing/test/*
 camera_processing/projectedDepth/*
+matlabcode/pos/v2/*
+matlabcode/pos/v3/*
 *.mp4
 *.png
 *.tiff
